@@ -1,2 +1,2 @@
 # Calendatron-Updates
-addon for wow
+Update packages for Calendatron
